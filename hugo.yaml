@@ -47,7 +47,7 @@ params:
   params:
   #title: "Sofía López"
   favicon: "/perfil.jpeg"
-  description: Text about my cool site
+  description: " "
   # staticPath: ""  # The path to serve the static files from
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -148,10 +148,11 @@ params:
 
   # For translations
   terms:
+    credits: false
     read: "Read"
     toc: "Table Of Contents"
     copyright: "Todos los derechos reservados"
-    emailText: "Check out this site"
+    #emailText: "Check out this site"
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
