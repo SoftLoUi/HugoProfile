@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Tarea 3'
+theme = "hugo-profile"
