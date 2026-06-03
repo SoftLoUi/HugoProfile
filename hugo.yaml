@@ -130,6 +130,7 @@ params:
       github: https://github.com/SoftLoUi
       instagram: https://www.instagram.com/softdirai/
       facebook: https://www.facebook.com/SoftDiRai.6166/
+      credits: false
 
   # List pages like blogs and posts
   listPages:
@@ -148,7 +149,6 @@ params:
 
   # For translations
   terms:
-    credits: false
     read: "Read"
     toc: "Table Of Contents"
     copyright: "Todos los derechos reservados"
