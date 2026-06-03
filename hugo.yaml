@@ -6,6 +6,11 @@ theme: hugo-profile
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
 
+# URL
+baseURL: "https://softloui.github.io/HugoProfile/"
+relativeURLs: true
+canonifyURLs: true
+
 #services:
 #googleAnalytics:
 #id: G-MEASUREMENT_ID

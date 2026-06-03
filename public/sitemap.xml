@@ -3,28 +3,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/HugoProfile/categories/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/estudiante/</loc>
+    <loc>http://localhost:1313/HugoProfile/tags/estudiante/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/HugoProfile/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/primer-post/</loc>
+    <loc>http://localhost:1313/HugoProfile/posts/primer-post/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/perfil/</loc>
+    <loc>http://localhost:1313/HugoProfile/tags/perfil/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/personal/</loc>
+    <loc>http://localhost:1313/HugoProfile/categories/personal/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/HugoProfile/posts/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/HugoProfile/tags/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>
