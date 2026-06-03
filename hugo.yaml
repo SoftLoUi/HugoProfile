@@ -47,6 +47,7 @@ params:
   params:
   #title: "Sofía López"
   favicon: ""
+  showfavicon: false
   description: ""
   # staticPath: ""  # The path to serve the static files from
 
